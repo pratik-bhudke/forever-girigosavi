@@ -152,6 +152,7 @@ $(document).ready(function() {
     /*============================================
     Skills
     ==============================================*/
+	/**
     var colorval = $('.hello h1').css('backgroundColor');
     var parts = colorval.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
     delete(parts[0]);
@@ -199,7 +200,7 @@ $(document).ready(function() {
             });
         }
     });
-    
+     */
     
 
 		
